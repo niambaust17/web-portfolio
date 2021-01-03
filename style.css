@@ -52,13 +52,12 @@ section {
   border-radius: 5px;
   height: 60%;
   background-color: white;
-  margin-top: 45px;
+  margin-top: 35px;
 }
 .experience-area {
   background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
   background-position: left;
-  padding-bottom: 0;
 }
 #full-stack {
   border-left: 7px solid;
